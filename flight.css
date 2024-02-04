@@ -422,22 +422,22 @@
   
     .flight-card__route {
       padding: 0; 
-      margin-top: 1rem; /* Adjust spacing for smaller screens */
+      margin-top: 1rem;
     }
   
     .flight-card__duration,
     .flight-card__type {
-      font-size: 1rem; /* Adjust font size for smaller screens */
+      font-size: 1rem; 
     }
   
     .flight-card__action {
-      text-align: center; /* Center the text for smaller screens */
+      text-align: center; 
     }
   
     .styled-price {
-      font-size: 2rem; /* Adjust font size for smaller screens */
+      font-size: 2rem; 
     }
   
     .route-line {
-      margin: 0.5rem 0; /* Adjust spacing for smaller screens */
-    }
+      margin: 0.5rem 0;
+     }
